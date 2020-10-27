@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/locust_ui_test/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/locust_ui_test/static/js/main.9e9c20c1.chunk.js",
-    "main.js.map": "/locust_ui_test/static/js/main.9e9c20c1.chunk.js.map",
-    "runtime-main.js": "/locust_ui_test/static/js/runtime-main.dd1cc7b7.js",
-    "runtime-main.js.map": "/locust_ui_test/static/js/runtime-main.dd1cc7b7.js.map",
-    "static/js/2.b19dc375.chunk.js": "/locust_ui_test/static/js/2.b19dc375.chunk.js",
-    "static/js/2.b19dc375.chunk.js.map": "/locust_ui_test/static/js/2.b19dc375.chunk.js.map",
-    "static/js/3.6728d6be.chunk.js": "/locust_ui_test/static/js/3.6728d6be.chunk.js",
-    "static/js/3.6728d6be.chunk.js.map": "/locust_ui_test/static/js/3.6728d6be.chunk.js.map",
+    "main.css": "/locust_ui_test/static/css/main.1ba34a62.chunk.css",
+    "main.js": "/locust_ui_test/static/js/main.794f9f12.chunk.js",
+    "main.js.map": "/locust_ui_test/static/js/main.794f9f12.chunk.js.map",
+    "runtime-main.js": "/locust_ui_test/static/js/runtime-main.46a3369a.js",
+    "runtime-main.js.map": "/locust_ui_test/static/js/runtime-main.46a3369a.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/locust_ui_test/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.779263ce.chunk.js": "/locust_ui_test/static/js/2.779263ce.chunk.js",
+    "static/js/2.779263ce.chunk.js.map": "/locust_ui_test/static/js/2.779263ce.chunk.js.map",
+    "static/js/3.7ae1a77f.chunk.js": "/locust_ui_test/static/js/3.7ae1a77f.chunk.js",
+    "static/js/3.7ae1a77f.chunk.js.map": "/locust_ui_test/static/js/3.7ae1a77f.chunk.js.map",
     "index.html": "/locust_ui_test/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/locust_ui_test/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.b19dc375.chunk.js.LICENSE.txt": "/locust_ui_test/static/js/2.b19dc375.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/locust_ui_test/static/media/logo.103b5fa1.svg"
+    "static/css/2.20aa2d7b.chunk.css.map": "/locust_ui_test/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.1ba34a62.chunk.css.map": "/locust_ui_test/static/css/main.1ba34a62.chunk.css.map",
+    "static/js/2.779263ce.chunk.js.LICENSE.txt": "/locust_ui_test/static/js/2.779263ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd1cc7b7.js",
-    "static/js/2.b19dc375.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.9e9c20c1.chunk.js"
+    "static/js/runtime-main.46a3369a.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.779263ce.chunk.js",
+    "static/css/main.1ba34a62.chunk.css",
+    "static/js/main.794f9f12.chunk.js"
   ]
 }
