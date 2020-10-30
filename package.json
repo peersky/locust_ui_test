@@ -1,17 +1,26 @@
 {
-  "homepage": "http://peersky.github.io/locust_ui_test",
+  "homepage": "/",
   "name": "locust_ui_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
+    "mui-datatables": "^3.6.0",
+    "postscribe": "^2.0.8",
     "react": "^17.0.1",
+    "react-async-script-loader": "^0.3.0",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
+    "react-load-script": "0.0.6",
+    "react-script-hook": "^1.2.1",
     "react-scripts": "4.0.0",
+    "react-split-pane": "^0.1.92",
+    "react-ui-tour": "^0.9.9",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
